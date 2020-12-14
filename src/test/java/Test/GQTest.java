@@ -12,6 +12,7 @@ import pageObject.Login;
 
 
 public class GQTest extends Base {
+	
 	@Test
 	public static void test() throws IOException, InterruptedException{
 		

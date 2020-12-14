@@ -79,7 +79,9 @@ FileInputStream fis=new FileInputStream(System.getProperty("user.dir")+"\\src\\m
  // String device=(String) prop.get("device");
     String device= System.getProperty("deviceName");
     
-   
+    
+    startEmulator();
+      
     
      capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, device);
     
