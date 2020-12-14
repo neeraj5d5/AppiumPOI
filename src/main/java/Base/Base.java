@@ -60,7 +60,7 @@ public static void startEmulator() throws IOException, InterruptedException
 {
 
 	Runtime.getRuntime().exec(System.getProperty("user.dir")+"\\src\\main\\java\\Resources\\startEmulator.bat");
-	Thread.sleep(6000);
+	Thread.sleep(60000);
 }
 
 	public static  AndroidDriver<AndroidElement> capabilities(String appName) throws IOException, InterruptedException
