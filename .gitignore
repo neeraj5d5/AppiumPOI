@@ -1,1 +1,4 @@
 #Ignore mavene dependences
+#taskkill /F /IM node.exe
+
+test-output/*
