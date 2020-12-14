@@ -3,9 +3,6 @@
   <groupId>Project</groupId>
   <artifactId>GrabQupons.app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <groupId>practise</groupId>
-  <artifactId>AppiumFramework</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>GQtest</name>
